@@ -1,0 +1,12 @@
+:host {
+    display: block;
+    position: relative;
+  }
+  
+  #canvas {
+    height: 100vh;
+    width: 100vw;
+    background-position: center; /* You can adjust this value based on your preference */
+    background-color: #000000;  /* Set the background color if you want a color behind the canvas */
+  }
+  
