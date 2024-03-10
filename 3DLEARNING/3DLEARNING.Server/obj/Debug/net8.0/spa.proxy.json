@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\XXXX\\Documents\\GitHub\\3DLEARNING\\3DLEARNING\\3DLEARNING.Server\\..\\3dlearning.client",
+"WorkingDirectory": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3DLEARNING.Server\\..\\3dlearning.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3DLEARNING.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0baf74651cc677a9e3f8e00e3a5d45a83f723946")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c503ebc9cb5cf39bb024a0aedcb01aa02dc647c")]
 [assembly: System.Reflection.AssemblyProductAttribute("3DLEARNING.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3DLEARNING.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

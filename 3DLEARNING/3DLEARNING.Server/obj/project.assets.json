@@ -927,11 +927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XXXX\\Documents\\GitHub\\3DLEARNING\\3DLEARNING\\3DLEARNING.Server\\3DLEARNING.Server.csproj",
+      "projectUniqueName": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3DLEARNING.Server\\3DLEARNING.Server.csproj",
       "projectName": "3DLEARNING.Server",
-      "projectPath": "C:\\Users\\XXXX\\Documents\\GitHub\\3DLEARNING\\3DLEARNING\\3DLEARNING.Server\\3DLEARNING.Server.csproj",
+      "projectPath": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3DLEARNING.Server\\3DLEARNING.Server.csproj",
       "packagesPath": "C:\\Users\\XXXX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XXXX\\Documents\\GitHub\\3DLEARNING\\3DLEARNING\\3DLEARNING.Server\\obj\\",
+      "outputPath": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3DLEARNING.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\XXXX\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\merim\\OneDrive\\Radna povr\u0161ina\\Hackathon-Bi0s\\3DLEARNING\\3DLEARNING\\",
+  "WorkspaceRootPath": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18961CCB-9D70-4017-9A43-F61E47C093BF}|3dlearning.client\\3dlearning.client.esproj|c:\\users\\merim\\onedrive\\radna povr\u0161ina\\hackathon-bi0s\\3dlearning\\3dlearning\\3dlearning.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{6E7B06F6-537B-4797-878A-A0A461C4A316}|3DLEARNING.Server\\3DLEARNING.Server.csproj|c:\\users\\xxxx\\documents\\github\\hackathon-2024-bios\\3dlearning\\3dlearning.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E7B06F6-537B-4797-878A-A0A461C4A316}|3DLEARNING.Server\\3DLEARNING.Server.csproj|solutionrelative:3dlearning.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18961CCB-9D70-4017-9A43-F61E47C093BF}|3dlearning.client\\3dlearning.client.esproj|c:\\users\\xxxx\\documents\\github\\hackathon-2024-bios\\3dlearning\\3dlearning.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{18961CCB-9D70-4017-9A43-F61E47C093BF}|3dlearning.client\\3dlearning.client.esproj|solutionrelative:3dlearning.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
@@ -14,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -23,10 +31,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3DLEARNING.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "3DLEARNING.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3DLEARNING.Server\\appsettings.json",
+              "RelativeToolTip": "3DLEARNING.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T01:35:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\merim\\OneDrive\\Radna povr\u0161ina\\Hackathon-Bi0s\\3DLEARNING\\3DLEARNING\\3dlearning.client\\src\\app\\app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3dlearning.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "3dlearning.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\merim\\OneDrive\\Radna povr\u0161ina\\Hackathon-Bi0s\\3DLEARNING\\3DLEARNING\\3dlearning.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3dlearning.client\\src\\app\\app-routing.module.ts",
               "RelativeToolTip": "3dlearning.client\\src\\app\\app-routing.module.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",

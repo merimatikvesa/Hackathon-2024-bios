@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ovRyifLoXMQMKbE6aNCfrbd3dz4RBqF+Bf8IoqVY1pHmcyjWa+4MwfSuQd585prbE1LA7vlguVqMERWcue3g0w==",
+  "dgSpecHash": "83iQe9vj+YXyj4W6FeP0SREvp5sUDZ0kpxV3SDuR79DtfAP3Cno7ES8aYIGvDYzQbA2lo5cKlMUNUfVJLLDVgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\XXXX\\Documents\\GitHub\\3DLEARNING\\3DLEARNING\\3DLEARNING.Server\\3DLEARNING.Server.csproj",
+  "projectFilePath": "C:\\Users\\XXXX\\Documents\\GitHub\\Hackathon-2024-bios\\3DLEARNING\\3DLEARNING.Server\\3DLEARNING.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XXXX\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.2\\microsoft.aspnetcore.spaproxy.8.0.2.nupkg.sha512",
     "C:\\Users\\XXXX\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
